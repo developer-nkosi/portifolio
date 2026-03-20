@@ -359,6 +359,7 @@ footer {
     background-color: var(--dark);
     color: white;
     text-align: center;
+    text-decoration: none;
     padding: 40px 0;
     margin: 10px;
     border-radius: 10px;
